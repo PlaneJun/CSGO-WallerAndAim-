@@ -1,0 +1,4 @@
+﻿  dllMain.cpp
+e:\code\c-c++\imgui\lol\dx9hook\dllmain.cpp(87): error C2065: “GWL_WNDPROC”: 未声明的标识符
+e:\code\c-c++\imgui\lol\dx9hook\dllmain.cpp(87): warning C4311: “类型强制转换”: 从“LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”到“LONG”的指针截断
+e:\code\c-c++\imgui\lol\dx9hook\dllmain.cpp(87): warning C4302: “类型强制转换”: 从“LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”到“LONG”截断
